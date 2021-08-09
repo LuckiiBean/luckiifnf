@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grasspeople.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGcameos0000" x="10" y="10" width="2045" height="705" frameX="0" frameY="-21" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0001" x="10" y="10" width="2045" height="705" frameX="0" frameY="-21" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0002" x="2065" y="10" width="2045" height="709" frameX="0" frameY="-17" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0003" x="2065" y="10" width="2045" height="709" frameX="0" frameY="-17" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0004" x="4120" y="10" width="2045" height="715" frameX="0" frameY="-12" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0005" x="4120" y="10" width="2045" height="715" frameX="0" frameY="-12" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0006" x="10" y="735" width="2050" height="719" frameX="0" frameY="-8" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0007" x="2070" y="735" width="2050" height="723" frameX="0" frameY="-3" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0008" x="4130" y="735" width="2050" height="726" frameX="0" frameY="0" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0009" x="4130" y="735" width="2050" height="726" frameX="0" frameY="0" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0010" x="4130" y="735" width="2050" height="726" frameX="0" frameY="0" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0011" x="4130" y="735" width="2050" height="726" frameX="0" frameY="0" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0012" x="4130" y="735" width="2050" height="726" frameX="0" frameY="0" frameWidth="2050" frameHeight="727"/>
+	<SubTexture name="BGcameos0013" x="4130" y="735" width="2050" height="726" frameX="0" frameY="0" frameWidth="2050" frameHeight="727"/>
+</TextureAtlas>

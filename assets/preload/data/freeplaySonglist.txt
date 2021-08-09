@@ -1,0 +1,4 @@
+Tutorial:gf:1
+Pest:luckii:7
+Invader:luckii:7
+Right-There:luckii:7
